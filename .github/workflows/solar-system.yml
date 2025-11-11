@@ -39,7 +39,6 @@ jobs:
 
     code-coverage:
         name: code-coverage
-        id: code-coverage
         runs-on: ubuntu-latest
         steps:
         - name: checkout  
